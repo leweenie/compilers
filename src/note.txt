@@ -1,0 +1,1 @@
+check for cases of reserved keywords first -> if it's not reserved check if it's a identifier, this drastically lowers the overhead processing power.
